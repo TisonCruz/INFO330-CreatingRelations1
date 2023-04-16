@@ -12,4 +12,4 @@ values('INFO330A', '2023-04-01', '2023-06-01', 'Data and databases'),
 ('BAW010', '2023-04-01', '2023-06-01', 'Introduction to Basket-Weaving'),
 ('BAW100A', '2023-04-01', '2023-06-01', 'Underwater Basket-Weaving');
 
-select * from Courses
+select * from Courses;
