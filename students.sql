@@ -17,4 +17,4 @@ values('1', 'Fred', 'Flintstone', '35'),
 ('9', 'Dexter', 'Laboratory', '9'),
 ('10', 'Spongebob', 'Squarepants', '36');
 
-select * from students
+select * from students;
